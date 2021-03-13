@@ -1,0 +1,38 @@
+@media screen and (min-width: 360px) {
+    div {
+        color: silver;
+        background-color: black;
+    }
+    h1 {
+        font-size: 10vw;
+    }
+    p {
+        font-size: 5vw;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    div {
+        color: purple;
+        background-color: gold;
+    }
+    h1 {
+        font-size: 6vw;
+    }
+    p {
+        font-size: 3vw;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    div {
+        color: yellow;
+        background-color: navy;
+    }
+    h1 {
+        font-size: 2vw;
+    }
+    p {
+        font-size: 1vw;
+    }
+}
