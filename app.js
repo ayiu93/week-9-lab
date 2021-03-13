@@ -3,8 +3,8 @@ create two variables and two constants. two should be a number. one should be a
 string that is at least 5 characters and the last should be a boolean.
 */
 
-const number1 = 9;
-let number2 = 5;
+const num1 = 9;
+let num2 = 5;
 const word = 'constant';
 let check = true;
 
@@ -27,7 +27,7 @@ write a for loop to loop over the elements of your string, console.log one
 character at a time.
 */
 
-for(i=0;i<str.length;i++) {
-    console.log(str.charAt(i));
+for(i=0;i<word.length;i++) {
+    console.log(word.charAt(i));
 }
 
